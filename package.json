@@ -1,0 +1,29 @@
+{
+  "name": "console-log-extension",
+  "version": "1.0.0",
+  "description": "A lightweight extension to the native console.log function.",
+  "main": "index.js",
+  "keywords": [
+    "console",
+    "log",
+    "extension",
+    "logging"
+  ],
+  "author": "Eirik Madland",
+  "license": "MIT",
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eirikmadland/console-log-extension.git"
+  },
+
+  "homepage": "https://github.com/eirikmadland/console-log-extension#readme",
+
+  "bugs": {
+    "url": "https://github.com/eirikmadland/console-log-extension/issues"
+  },
+
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  }
+}
